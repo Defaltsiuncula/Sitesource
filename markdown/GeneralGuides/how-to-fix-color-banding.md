@@ -10,7 +10,7 @@ Guide examples below are zoomed [hotsampled](../basics.htm#hotsampling) 20MP sho
 
  For banding to occur, it doesn't need to be the image adjustments, but let's say that they are, the more adjustments you make to a screenshot the higher the chances are for banding to occur.
  
-<div class="figure" align="center"><img src="../Images/FixColorBanding/beforesurblurandnoise.png" /><p style="text-align: center;">Example of banding after applying curves adjustment layer on the gradient. You can see it in the form of straight vertical lines. <i>(image example created by me)</i></p></div>
+<div class="figure" align="center"><img src="../Images/FixColorBanding/beforesurblurandnoise.png" /><p style="text-align: center;">Example of banding after applying curves adjustment layer on the gradient. You can see it in the form of straight vertical lines.</p></div>
 
 So what should appear as a smooth gradient, will instead show straight vertical lines that don't appear to blend well at all. They can appear in different forms of shapes as well.
 
@@ -119,12 +119,12 @@ Once done, you can reduce the sharpness, texture, and a bit of clarity of sky, a
 </div>
 <div class="figure"><p style="text-align: center;">Also we can see here that adding only grain didn't help to eliminate the banding entirely, so minus texture did the trick.</p></div>
 
-Where small adjustments can't help, I push the radius slider to blur the sky quite a bit to ensure I don't see any defects. That would be the case when I decide to shoot older games where the sky transitions and the textures are terrible. Also, sometimes I leave the shot only with surface blur applied. It depends on how I want a shot to look, e.g., a softer look in the image for some particular reason, unless I am forced to add some noise or grain to fight the banding. But, in most cases, I add noise or grain. In general, there are no rules. It's all about your approach and what you want as your final result.
+Where small adjustments can't help, you can push the radius slider to blur the sky quite a bit until you don't see any defects. That would be the case when you decide to shoot older games if the sky transitions and textures are terrible. Sometimes you can also leave the shot only with surface blur applied. It depends on how you want a shot to look, e.g., a softer look in the image for some particular reason, unless you are forced to add some noise or grain to fight the banding. But, in most cases, you should add noise or grain. In general, there are no rules. It's all about your approach and what you want as your final result.
 
-Also, in general, you should add noise or grain to an entire image in the end, unless you want to mask certain areas with it to add more details. In this guide, I used them immediately just to show you an example of their effectiveness against banding.
+Also, you should add noise or grain to an entire image in the end, unless you want to mask certain areas with it to add more details. In this guide, they are used immediately just to show you an example of their effectiveness against banding.
 
 @alert Info
- Just keep in mind that surface blur cannot fix all types of banding, so we will need to add noise or grain on top of that. It's best to combine them anyway.
+ Just keep in mind that surface blur cannot fix all types of banding, so we will need to add noise or grain on top of that. It's best to combine them together anyway.
 @end
 
 ## Different cases
@@ -146,8 +146,8 @@ The same goes for [Lightroom](how_to_fix_color_banding.htm#lightroom), just inst
 To break this down for Lightroom. 
 
 1. [Example](https://i.imgur.com/YzWh5Cv.png) when Lightroom selected entire background. 
-2. [Example](https://i.imgur.com/b9gOcZ0.png) when I use Subtract to Mask with a Brush to clean the areas I am left with a clean background selected only.
-3. [Example](https://i.imgur.com/vVFDAxu.png) when I used a brush again to remove the background selection to focus only on the color banding area. 
+2. [Example](https://i.imgur.com/b9gOcZ0.png) of Subtract to Mask with a Brush to clean the areas I am left with a clean background selected only.
+3. [Example](https://i.imgur.com/vVFDAxu.png) of a brush again to remove the background selection to focus only on the color banding area. 
 4. Now you can apply the same edits as mentioned above to remove the banding.
 ___
 If the banding occurs due to some lightning that bleeds out behind the subject, you can use the Quick Selection Tool from Photoshop to select the banding area. 
@@ -180,19 +180,20 @@ Applying grain to a shot comes down to a personal choice. It is entirely your ow
 
 One of the main fighters against color banding is the grain. As seen above, a bit of grain can help to blend those harsh transitions between the tones. Grain not only can help to eliminate the color banding it can also add a unique special feel and mood to an entire shot, or it can even determine your style. A touch of grain on your shot can add that old-time feel by adding a vintage look to a shot, it can add more details, and it can make a photo look much deeper.
 
-I, personally, don't apply grain when I do processing with ReShade. I like to do it after. 
-Simply put, I want to have the cleanest image possible for various tweaks such as color adjustments, etc. that I do in Lightroom. I don't want to deal with a noisy image in post unless you are already satisfied with the shot result which has a grain on it that was applied from ReShade.
-A small tip anyway would be to always inspect a shot before moving on.
+If you decide to not apply grain when you do processing with ReShade because you like to do it afterward that's fine. Simply put, you want to have the cleanest image possible for various tweaks such as color adjustments, etc. that you do in Lightroom. You don't want to deal with a noisy image in the post unless you are already satisfied with the shot result which has a grain on it that was applied from ReShade. A small tip anyway would be to always inspect a shot before moving on.
 
-This is not about me convincing you what to do, because grain is a subjective thing, and its usage depends on what you're aiming for with your content, but it's about how grain can help you against the banding, and how it can improve your shots in general. 
+This is not intended to advise you on what to do, because grain is a subjective thing, and its usage depends on what you're aiming for with your content, but it's about how grain can help you against the banding, and how it can improve your shots in general. 
 
 The same can be said for the noise and the surface blur. For example, if the image that contains a paper and a pencil looks too smooth it might appear artificial to our eyes, but adding a bit of noise, it will look sharper, and *natural* to our eyes.
 
-If you need more *convincing*, no worries! Let's bring up now the final comparison on why I mentioned the grain, noise, and surface blur, and why would you need to use them in the fight against banding.
+If you need more *convincing*, no worries! Let's bring up now the final comparison on why grain, noise, and surface blur, and why would you need to use them in the fight against banding.
 
 Can you notice the difference in gradients below?
 
-<div class="figure" align="center"><img src="../Images/FixColorBanding/Before_after adding noise_and after surface blur_resized.png" /><p style="text-align: center;">Top: banding example; Middle: 0.58% of added noise to reduce the banding; Bottom: how it looks with surface blur applied only <i>(image example created by me)</i></p></div>
+<div class="figure" align="center"><img src="../Images/FixColorBanding/Before_after adding noise_and after surface blur_resized.png" /><p style="text-align: center;">Top: banding example; Middle: 0.58% of added noise to reduce the banding; Bottom: how it looks with surface blur applied only</p></div>
+___
+*Written by,* StephenCalic(Defaltsiuncula)  
+*Thanks to*, originalnicodr for ESGRAN and debanding models contribution and feedback, Otis_Inf for feedback
 
-*Written by* StephenCalic(Defaltsiuncula)
+
 
