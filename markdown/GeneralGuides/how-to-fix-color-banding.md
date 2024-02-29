@@ -186,7 +186,7 @@ This is not intended to advise you on what to do, because grain is a subjective 
 
 The same can be said for the noise and the surface blur. For example, if the image that contains a paper and a pencil looks too smooth it might appear artificial to our eyes, but adding a bit of noise, it will look sharper, and *natural* to our eyes.
 
-If you need more *convincing*, no worries! Let's bring up now the final comparison on why grain, noise, and surface blur, and why would you need to use them in the fight against banding.
+If you need more *convincing*, no worries! Let's bring up now the final comparison on grain, noise, and surface blur, and why would you need to use them in the fight against banding.
 
 Can you notice the difference in gradients below?
 
