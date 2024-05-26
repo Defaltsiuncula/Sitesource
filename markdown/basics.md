@@ -75,6 +75,12 @@ This of course works with other aspect ratios, 21:9 would roughly be 1920x810 an
 
 Additionally, you can use this for thumbnail testing - viewing your composition as a small image to see if elements are well defined. Instead of going to the bounds of your monitor, you could simply go down to something tiny like 300x400 and compose from there. 
 
+@alert Tip
+Tip: when you’re testing what the largest resolution is you can choose, multiply the width by the height and that gives you your megapixel amount. Keep track of what MP you can manage in specific games (each game may be different depending on how taxing its graphics are), and that makes it easy to know which size to go for in a different aspect ratio. 
+
+If you know you can handle 14MP in 21:9 then you can handle 14MP in 3:4. Keeping a list somewhere of aspect ratios, resolutions, and MP is useful for if you want to use an aspect ratio not listed in Otis’ tools, or if you want to use SRWE or WBG etc instead 
+@end
+
 ### Useful links
  
 Here are some guides on how to hotsample in better detail:
